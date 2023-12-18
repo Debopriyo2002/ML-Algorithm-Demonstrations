@@ -14,28 +14,35 @@ To install the required libraries, run the following command:
 pip install -r requirements.txt
 Ensure Python 3.11.5 is installed on your system.
 
-Instructions
-Clone the repository:
+***Instructions
 
-bash
-Copy code
-git clone https://github.com/Debopriyo2002/ml-algorithm-demonstrations.git
-Install the required libraries:
+1. **Clone the repository:**
 
-bash
-Copy code
-pip install -r requirements.txt
-Explore the Scripts:
+    ```bash
+    git clone https://github.com/Debopriyo2002/machine-learning-demos.git
+    ```
 
-Data Exploration (Categorical and Nominal Data): Run practical2.py to explore categorical and nominal data.
-Simple Linear Regression: Execute practical3.py for a demonstration of simple linear regression.
-KNN Classification: Run practical4.py to see KNN classification in action.
-Naïve Bayes Classification: Execute practical5.py for a demonstration of Naïve Bayes classification.
-Classification using Decision Tree: Run practical6.py for classification using decision trees.
-Classification using MLP: Execute practical7.py to explore classification using Multi-Layer Perceptron.
-Data Clustering: Run practical8.py for data clustering demonstration.
-Demonstrate Data Exploration (Numeric Data): Run practical1.py for data exploration (numeric data).
-Note:
-Ensure the necessary dataset files are available or properly linked within the scripts to execute the demonstrations successfully.
-Modify any file paths or dataset paths within the scripts if needed to match your file structure.
-Each script contains comments and explanations to understand the code and its purpose.
+2. **Install the required libraries:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Explore the Scripts:**
+
+    - **Data Exploration (Categorical and Nominal Data):** Run `practical02.py` to explore categorical and nominal data.
+    - **Simple Linear Regression:** Execute `practical03.py` for a demonstration of simple linear regression.
+    - **KNN Classification:** Run `practical04.py` to see KNN classification in action.
+    - **Naïve Bayes Classification:** Execute `practical05.py` for a demonstration of Naïve Bayes classification.
+    - **Classification using Decision Tree:** Run `practical06.py` for classification using decision trees.
+    - **Classification using MLP:** Execute `practical07.py` to explore classification using Multi-Layer Perceptron.
+    - **Data Clustering:** Run `practical08.py` for data clustering demonstration.
+    - **Numerical Data :** The file `practical1.py` contains the numerical data used in these demonstrations.
+
+
+
+
+*** Note:
+- Ensure the necessary dataset files are available or properly linked within the scripts to execute the demonstrations successfully.
+- Modify any file paths or dataset paths within the scripts if needed to match your file structure.
+- Each script contains comments and explanations to understand the code and its purpose.
