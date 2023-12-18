@@ -14,12 +14,12 @@ To install the required libraries, run the following command:
 pip install -r requirements.txt
 Ensure Python 3.11.5 is installed on your system.
 
-***Instructions
+**## Instructions**
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Debopriyo2002/machine-learning-demos.git
+    git clone https://github.com/Debopriyo2002/ML-Algorithm-Demonstration.git
     ```
 
 2. **Install the required libraries:**
@@ -42,7 +42,7 @@ Ensure Python 3.11.5 is installed on your system.
 
 
 
-*** Note:
+**## Note:**
 - Ensure the necessary dataset files are available or properly linked within the scripts to execute the demonstrations successfully.
 - Modify any file paths or dataset paths within the scripts if needed to match your file structure.
 - Each script contains comments and explanations to understand the code and its purpose.
